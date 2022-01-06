@@ -1,4 +1,7 @@
 #!/bin/bash
+# Author : Nathan Lu
+# Date : 2022/01/06
+# To generate new table for next moth
 
 NEXT_MONTH=$(date -d "1 month" +'%Y-%m')
 TABLE_NAME="shourt_urls_$NEXT_MONTH"
