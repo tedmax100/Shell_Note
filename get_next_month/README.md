@@ -37,5 +37,6 @@ date -d '-10 minutes ago' "+%Y-%m-%d:%M:%S"
 date +%s
 > 1641464683
 ```
+[reference](https://phoenixnap.com/kb/linux-date-command)
 
 # getopts + OPTARG
