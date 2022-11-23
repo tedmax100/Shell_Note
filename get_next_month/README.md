@@ -39,4 +39,10 @@ date +%s
 ```
 [reference](https://phoenixnap.com/kb/linux-date-command)
 
+
+on Mac
+```bash 
+date -v +1d +%Y-%m
+```
+
 # getopts + OPTARG
